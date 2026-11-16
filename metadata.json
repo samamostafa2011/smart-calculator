@@ -1,0 +1,8 @@
+{
+  "name": "الحاسبة الذكية",
+  "description": "آلة حاسبة ذكية ومتطورة تدعم العمليات القياسية والعلمية ومحول الوحدات وحاسبة الخصومات مع سجل العمليات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
